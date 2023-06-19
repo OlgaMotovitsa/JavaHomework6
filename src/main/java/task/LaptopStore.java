@@ -1,4 +1,4 @@
-package Task;
+package task;
 import java.util.*;
 public class LaptopStore {
     private final Set<Laptop> laptops;
